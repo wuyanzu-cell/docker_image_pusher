@@ -1,1 +1,3 @@
 apache/spark:4.1.0-preview3
+apache/hadoop:3.4.1
+aaionap/hbase:1.2.0
